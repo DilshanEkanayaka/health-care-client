@@ -1,1 +1,5 @@
 INSERT INTO sch_patient.patient (id, age, email, gender, name, phone_no, user_id, status) VALUES (1, 25, 'hashans95@gmail.com', 'male', 'dinesh', '0714806130', 10, 2);
+INSERT INTO sch_patient.patient (id, age, email, gender, name, phone_no, user_id, status) VALUES (2, 28, 'chamodsubasinghe@gmail.com', 'Male', 'chamod', '0719868845', 9, 2);
+INSERT INTO sch_patient.patient (id, age, email, gender, name, phone_no, user_id, status) VALUES (3, 24, 'kalanagunasinghe@gmail.com', 'Male', 'kalana', '0719878951', 10, 2);
+INSERT INTO sch_patient.patient (id, age, email, gender, name, phone_no, user_id, status) VALUES (4, 20, 'dinukiprasadie@gmail.com', 'Female', 'Dinuki', '0715588951', 11, 2);
+INSERT INTO sch_patient.patient (id, age, email, gender, name, phone_no, user_id, status) VALUES (5, 18, 'shashie@gmail.com', 'Female', 'shashini', '0708658891', 12, 2);
